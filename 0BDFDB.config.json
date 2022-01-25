@@ -1,0 +1,40 @@
+{
+	"changeLogs": {
+		"BDFDB": "2.0.6",
+		"BetterFriendList": "1.3.9",
+		"CopyRawMessage": "1.1.2",
+		"CreationDate": "1.4.6",
+		"EditChannels": "4.3.4",
+		"EditServers": "2.3.6",
+		"EditUsers": "4.3.9",
+		"GoogleTranslateOption": "2.2.7",
+		"OpenSteamLinksInApp": "1.1.4",
+		"OwnerTag": "1.3.9",
+		"PinDMs": "1.8.4",
+		"PluginRepo": "2.2.3",
+		"ServerDetails": "1.1.1",
+		"ShowHiddenChannels": "3.0.4",
+		"SpotifyControls": "1.2.4",
+		"StaffTag": "1.4.8",
+		"SteamProfileLink": "1.1.1",
+		"ThemeRepo": "2.2.3",
+		"Translator": "2.3.2"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "a485715019970a30abc55c2a0b8f00bf3240974a",
+		"0BDFDB.raw.css": "a1036e10077b9457f3903795204f7dbd91d7646d"
+	},
+	"settings": {
+		"showSupportBadges": true,
+		"showToasts": true,
+		"useChromium": false
+	}
+}
